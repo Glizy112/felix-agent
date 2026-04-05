@@ -2,8 +2,6 @@
 
 > A SaaS web app that helps users manage tasks, schedules, and info by interacting with multiple tools and data sources via MCP.
 
-**Prototype built for hackathon showcase**
-
 ## Features (Prototype)
 
 - **Smart Task Manager** - Create, edit, complete, and delete tasks with auto-priority scoring
@@ -72,7 +70,7 @@ Frontend runs at: `http://localhost:3000`
 ## Project Structure
 
 ```
-felix-prototype/
+felix/
 ├── backend/
 │   ├── main.py                 # FastAPI app entry point
 │   ├── database.py             # SQLAlchemy models & DB setup
