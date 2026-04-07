@@ -8,6 +8,9 @@ env/
 
 # Ignore sensitive env files
 .env
+con_vibe_form.txt
+felix_the_assis.txt
+felix_the_assis(resp).txt
 
 # Databases
 *.db

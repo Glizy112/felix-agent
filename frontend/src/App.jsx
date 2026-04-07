@@ -50,13 +50,6 @@ function App() {
             })}
           </ul>
         </nav>
-
-        <div className="p-4 border-t border-gray-200">
-          <div className="bg-primary-50 rounded-lg p-4">
-            <p className="text-sm font-medium text-primary-700">Prototype Demo</p>
-            <p className="text-xs text-primary-500 mt-1">Built for hackathon showcase</p>
-          </div>
-        </div>
       </aside>
 
       {/* Main Content */}
